@@ -1,0 +1,7 @@
+name:nmap4rs
+ver:1.2.1
+do:echoff;ping |parameter1|:|count-6555|;0>echo;echo Done.
+ntOnDwn:Lets go map some hosts!
+help:nmap4rs [host]
+ignore:This is a app test for my prompt in rust(if you can see,i alredy creater another in, java,C++,C#,py,kotlin), but,this an one of the java and kotlin that i create an repos for the apps,and also for auto-update
+and other thing,EVERYTHING after "help:" is ignored, soo,i just put the name "ignore:" for better organization
